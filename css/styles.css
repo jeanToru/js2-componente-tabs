@@ -34,3 +34,14 @@ body {
   padding: 20px;
   border: 1px solid #999;
 }
+
+/*Clases manejadas por javaScript */
+.js-content {
+  display: none;
+}
+
+.js-active {
+  background-color: #fff;
+  border-bottom: 1px solid #fff;
+  color: black;
+}
